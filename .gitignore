@@ -8,4 +8,4 @@ test/worker-bundle.js
 npm-debug.log*
 benchmark/browser-bundle.js
 
-lib/jsdom/living/generated/**/*.js
+
